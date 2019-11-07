@@ -1,0 +1,11 @@
+{
+  "name": "testlazyload",
+  "version": "1.0.0",
+  "description": "a project to lazy load img.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "candice",
+  "license": "ISC"
+}
